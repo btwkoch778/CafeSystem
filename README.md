@@ -17,10 +17,6 @@ A simple cafe management system developed using C# and Windows Forms.
 - Windows Forms
 - Visual Studio
 
-## Preview
-
-Screenshots of the application will be added here.
-
 ---
 
 # Kafe Sistemi
